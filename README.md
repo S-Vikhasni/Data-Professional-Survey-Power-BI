@@ -8,3 +8,5 @@ Then, an interactive Power BI dashboard was developed to visualize key insights.
 
 The metrics included average salary by occupation (Data Scientist, Data Engineer, Data Architect, etc.), favorite programming languages (Python, R, C/C++, etc.), 
 and work-life balance satisfaction. The dashboard also showed salary satisfaction and difficulty of entering the data field based on the respondents’ feedback.
+
+dataset source: https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx
