@@ -1,4 +1,5 @@
-Data.Professional.Survey_page.jpg
+![image](https://github.com/user-attachments/assets/da52d1d1-d258-44b6-b073-ee451e3d7ee6)
+
 
 The dataset containing survey results from individuals working in data-related professions was sourced from GitHub in the form on an excel file where
 data cleaning was performed to ensure accuracy and consistency. 
