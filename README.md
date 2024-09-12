@@ -1,4 +1,4 @@
-[[Data Professional Survey.pdf](https://github.com/user-attachments/files/16982556/Data.Professional.Survey.pdf)](https://github.com/S-Vikhasni/Data-Professional-Survey-Power-BI/blob/main/Data.Professional.Survey_page.jpg)
+
 
 The dataset containing survey results from individuals working in data-related professions was sourced from GitHub in the form on an excel file where
 data cleaning was performed to ensure accuracy and consistency. 
